@@ -244,11 +244,11 @@
 
         
         @media (max-width: 768px) {
-            .hero h1 {
+            .lv h1 {
                 font-size: 2.5rem;
             }
             
-            .hero p {
+            .lv p {
                 font-size: 1.1rem;
             }
             
@@ -268,7 +268,7 @@
         }
 
         @media (max-width: 480px) {
-            .hero h1 {
+            .lv h1 {
                 font-size: 2rem;
             }
             
